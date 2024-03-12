@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nazar, a passionate Frontend Vue Developer with two years of hands-on experience in creating dynamic and responsive web applications.</p>
+<p align="left">I'm Nazar, a passionate Frontend Vue Developer with three years of hands-on experience in creating dynamic and responsive web applications.</p>
 
 ###
 
